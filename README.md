@@ -6,7 +6,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation?
 
-My motivation is to seek a new career as a web developer, and personal enrichment along the way
+My motivation is to seek a new career as a web developer, and personal enrichment along the way.
 
 - Why did you build this project? (Note: the answer is not "Because it was a 
 homework assignment.")
@@ -15,9 +15,9 @@ I built this to help me get a small grasp on what we will be working on througho
 
 - What problem does it solve?
 
-It solves 
+It helps me practice the basic codes that we will be learning and provide a reference to the building blocks that allow me to code. 
 - What did you learn?
-I learned small amounts about HTML, JavaScript, Git, and 
+I learned small amounts about HTML, JavaScript, Git, and CSS that sets the foundation for my future learning
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -33,11 +33,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 N/A
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This is an interactive study guide that lets me reference what to study and the basics for each language I will use including: Javascript, CSS, Git, and HTML
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
@@ -51,9 +48,27 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
+Copyright (c) [2024] [Jake Denton Ellison]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
